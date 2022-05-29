@@ -1,0 +1,11 @@
+Cilantro-Tomato Salsa ,3.75,23,1,0,7,19;Shrimp Sates with Spiced Pistachio Chutney ,3.75,23,1,2,4,78;
+Supa,3.0,12,12,12,12,12;Ciorba,3.0,12,12,12,12,69;
+Spicy Pickled Shallots ,0.0,23,1,0,162,78;Smoked Caviar and Hummus on Pita Toasts ,5.0,23,1,2,49,79;Ethiopian Spice Tea ,5.0,23,1,0,13,49;
+Smoked Caviar and Hummus on Pita Toasts ,5.0,23,1,2,49,79;Apple Walnut Pancakes with Cinnamon Cream and Fudge Sauce '21' Club ,4.375,358,3,21,21,80;Veal or Turkey Roulades with Dried Apricot Rosemary Stuffing and Apricot Mustard Sauce ,4.375,358,27,17,345,49;
+Cilantro-Tomato Salsa ,3.75,23,1,0,7,32;Red and Green Tomato Salsa ,3.125,23,1,0,552,38;Quick & Spicy Asian Pickles ,5.0,23,1,0,128,48;The Original Three-Ingredient Rub ,0.0,23,1,1,6,47;
+Potato and Pea Salad with Chive Aïoli ,3.75,359,5,23,211,51;Garnet Yams with Blis Maple Syrup and Maple-Sugar Streusel ,5.0,359,4,12,284,21;
+Potato and Pea Salad with Chive Aïoli ,3.75,359,5,23,211,51;Garnet Yams with Blis Maple Syrup and Maple-Sugar Streusel ,5.0,359,4,12,284,21;
+Potato and Pea Salad with Chive Aïoli ,3.75,359,5,23,211,51;Garnet Yams with Blis Maple Syrup and Maple-Sugar Streusel ,5.0,359,4,12,284,21;
+Potato and Pea Salad with Chive Aïoli ,3.75,359,5,23,211,51;Garnet Yams with Blis Maple Syrup and Maple-Sugar Streusel ,5.0,359,4,12,284,21;orez,4.0,30,12,3,4,8;Blueberry and Corn Crisp ,4.375,359,4,15,303,12;A,1.0,1,1,1,1,1;
+Potato and Pea Salad with Chive Aïoli ,3.75,359,5,23,211,51;A,1.0,1,1,1,1,1;
+Potato and Pea Salad with Chive Aïoli ,3.75,359,5,23,211,51;Sangrita Bloody Mary ,5.0,359,3,1,550,75;
